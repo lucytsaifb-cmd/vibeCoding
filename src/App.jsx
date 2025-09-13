@@ -44,7 +44,7 @@ const Home = () => (
 
 const About = () => (
   <div className="bg-white p-6 rounded-2xl shadow">
-    <h1 className="text-2xl font-bold mb-4">關於我們</h1>
+    <h1 className="text-2xl font-bold mb-4 text-red-500">關於我們</h1>
     <p>這是部落格的關於頁面。這個網站使用柔和配色與圓角設計，帶來舒適的閱讀體驗。</p>
   </div>
 );
